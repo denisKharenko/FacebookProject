@@ -1,0 +1,18 @@
+﻿  Clock.cpp
+  Date.cpp
+  facebook.cpp
+  FacebookEntity.cpp
+  FanPage.cpp
+  imageStatus.cpp
+  Main.cpp
+  Member.cpp
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\c++ exercise 3\c++ work\Member.cpp(108,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  statusObject.cpp
+  textStatus.cpp
+  UserFunctions.cpp
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\c++ exercise 3\c++ work\UserFunctions.cpp(51,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\c++ exercise 3\c++ work\UserFunctions.cpp(946,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khare\OneDrive\Desktop\UpdatedCv\c++ exercise 3\c++ work\UserFunctions.cpp(947,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  videoStatus.cpp
+  Generating Code...
+  c++ work.vcxproj -> C:\Users\khare\OneDrive\Desktop\UpdatedCv\c++ exercise 3\x64\Debug\c++ work.exe
